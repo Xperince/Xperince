@@ -11,7 +11,7 @@
 
 - :🎃: I'm a beginner front-end developer.
 - :🎇: I'm speaking English(B1) and Russian(Native).
-- :zap: I listen to a ton of music while coding.
+- :zap: I listen to a lot of music while coding.
 
 ---
 
