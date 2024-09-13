@@ -20,8 +20,8 @@
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" **alt="HTML" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" **alt="CSS" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" **alt="CSS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" **alt="CSS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" **alt="Figma" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" **alt="Illustrator" width="40" height="40"/>
-	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" **alt="Photoshop" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" **alt="Illustrator" width="40" height="40"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" **alt="Photoshop" width="40" height="40"/>
 </div>
