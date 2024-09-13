@@ -1,5 +1,4 @@
 <div align="center" >
-	<img src="https://gachi.gay/_A3LF" width="100">
 	<img src="https://i.supa.codes/4GcUJ" width="100">
 	<p>
 		<b>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."💻</b>
